@@ -1,0 +1,61 @@
+# -----------------------------------------
+#  PYTHON / VIRTUAL ENV
+# -----------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Wirtualne środowiska
+venv/
+.venv/
+env/
+ENV/
+.ENV/
+
+# -----------------------------------------
+#  PYCHARM / JETBRAINS
+# -----------------------------------------
+.idea/
+*.iml
+
+# -----------------------------------------
+#  TESTY / CACHE / NARZĘDZIA
+# -----------------------------------------
+.pytest_cache/
+.cache/
+.mypy_cache/
+.pyre/
+.pytype/
+.ipynb_checkpoints/
+
+# -----------------------------------------
+#  LOGI / DANE TYM.
+# -----------------------------------------
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# -----------------------------------------
+#  BUILD / DEPLOY / EGGS
+# -----------------------------------------
+build/
+dist/
+develop-eggs/
+.eggs/
+*.egg-info/
+.installed.cfg
+MANIFEST
+
+# -----------------------------------------
+#  DANE / WYNIKI / OBRAZY (opcjonalne)
+# -----------------------------------------
+# Tutaj możesz dodać katalogi, które tworzysz podczas uruchomień programu
+# np. zapisy wykresów, tabel, eksperymentów itp.
+
+results/
+plots/
+outputs/
+data/
