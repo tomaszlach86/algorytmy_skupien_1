@@ -1,4 +1,4 @@
-# --- K-Means clustering on Iris dataset ---
+# --- Zabawa na oklepanym zbiorze Iris ---
 
 from sklearn.datasets import load_iris
 from sklearn.cluster import KMeans
